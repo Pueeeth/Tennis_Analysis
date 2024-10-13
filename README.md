@@ -1,6 +1,9 @@
 Project: Tennis Analysis Using Python
 
 Started: 1-10-2024(added input_videos)
+from (4-10 to 11-10) - Training Models for predition
+(13-10) - predicted players eliminating accurary or score number for each player   ---->  players with boxes x,y axis 
+
 
 Goals:
 
